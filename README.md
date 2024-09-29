@@ -1,2 +1,2 @@
 # rishmithalapati
-this is to learn git
+this is to learn gitproject
